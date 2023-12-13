@@ -1,15 +1,16 @@
-/* *{
-    color: blue;
-}*/
+div-1{
+    background-color: red;
+}
 
-/*p{
-    color: red;
-}*/
+.div-1 div-1 paragraph{
+    color: white;
+    font-size: 22px;
+}
 
-/*.test{
-    color: red;
-}*/
+.test-1.test-2{
+    color: yellow;
+}
 
-#healding{
+.p1, p2, p3{
     color: red;
 }
