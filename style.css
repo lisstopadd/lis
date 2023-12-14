@@ -1,3 +1,7 @@
-p[class="test"]{
-color: green;
+p{
+    width: 50px;
+}
+
+a{
+    width: 100px;
 }
